@@ -1,0 +1,331 @@
+
+.hero{
+	background: url(../img/bg.png) no-repeat center top;
+	background-size: cover;
+	
+}
+
+.nav-link:hover{
+	color: #ed145b!important;
+}
+
+.nav-link.js-scroll-trigger.active{
+	color: #ed145b!important;
+}
+
+.text-uppercase{
+	padding-top: 200px;
+}
+
+span{
+	
+	border: 1px solid #ed145b;
+	margin: 25px auto!important;
+	display: block;
+	width: 20%!important;
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ed145b;
+    border-color: #f4623a;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+
+.about{
+	background-color: #f4f4f4;
+	padding: 50px 0px;
+}
+
+.about-left{
+	position: relative;
+	
+}
+
+.about-left h2{
+	text-align: left;
+	padding: 10px 10px;
+}
+
+.about-span{
+	border: 1px solid #ed145b;
+	width: 20%!important;
+}
+
+.about-left p{
+	text-align: left;
+}
+
+.about-left h5{
+	color: red;
+}
+
+
+.about-right{
+	position: absolute;
+	top: 830px;
+    left: 643px;
+}
+
+
+
+.services{
+	padding: 100px 0px;
+}
+
+.services h2{
+	text-align: center;
+	font-size: 38px;
+	color: #5a5a5a;
+}
+
+.services p{
+	text-align: center;
+	font-size: 15px;
+	color: #5a5a5a;
+	margin-bottom: 80px;
+}
+
+.services h5{
+	padding-top: 30px;
+	color: #ed145b;
+}
+
+.carousel{
+	background: url(../img/carosel.png)no-repeat;
+	background-size: cover;
+	padding: 100px 0px;
+}
+
+.carousel-item p{
+	color: #fff;
+	text-align: center;
+}
+
+.fa.fa-quote-left{
+	color: #ed145b;
+	margin: 0px 0px 50px 300px;
+	font-size: 30px;
+	
+}
+
+.fa.fa-quote-right{
+	color: #ed145b;
+	margin: 50px 0px 0px 300px;
+	font-size: 30px;
+}
+
+
+
+.card-top{
+	background: black;
+	padding: 30px 0px;
+	position: relative;
+
+}
+
+.card-bottom{
+	background: #fff;
+	padding: 30px 0px;
+}
+
+.card-bottom li{
+	list-style: none;
+	text-align: center;
+	padding: 5px 10px;
+}
+
+.card-top h4,h6{
+	color: #fff;
+}
+
+.price{
+	padding: 100px 0px;
+	background: #f4f4f4;
+}
+
+.check{
+	text-align: center;
+}
+
+.check p{
+	padding-bottom: 50px;
+}
+
+.btn-top{
+	border-radius: 100px;
+	border: none;
+	font-size: 13px;
+	background-color: #f4f4f4;
+	padding: 5px 20px;
+	position: absolute;
+	bottom: -15px;
+    right: 37px;
+}
+
+.btn-bottom{
+	border-radius: 100px;
+	border: none;
+	font-size: 13px;
+	color: #fff;
+	background-color: #ed145b;
+	padding: 5px 20px;
+	margin-top: 20px;
+}
+
+.card-top:hover{
+	background-color: #ed145b;
+	cursor: pointer;
+}
+
+.all-card{
+	margin-left: 150px;
+}
+
+
+
+.customize{
+	padding: 80px 0px;
+}
+
+.icon{
+	position: relative;
+}
+
+.text{
+	position: absolute;
+	left: 88px;
+    top: -7px
+}
+
+.text h3{
+	text-align: left;
+	font-size: 18px;
+	color: #ed145b;
+}
+
+.text p{
+	text-align: left;
+	font-size: 13px;
+	color: #838383;
+}
+
+.csmz-bottom{
+	margin-top: 100px;
+	background: #ed145b;
+	padding: 80px 0px;
+}
+
+.csmz-bottom h2{
+	text-align: right;
+	color: #fff;
+	font-size: 38px;
+
+}
+
+.btn-cstm{
+	padding: 8px 50px;
+	border-radius: 100px;
+	border: none;
+	background: #fff;
+	color: #ed145b;
+}
+
+
+.update-title{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.card-title h2,p{
+	text-align: left;
+	padding: 20px;
+}
+
+.up-card{
+	background: #f4f4f4;
+	margin: 20px 0px;
+	position: relative;
+}
+
+.hover-icon{
+	position: absolute;
+    background: ##ed145b;
+    width: 100%;
+    height: 61%;
+    top: 0px;
+    left: 0px;
+    color: #fff;
+    background-color: #ed145b;
+    opacity: 80%;
+    transition: .5s;
+
+}
+
+.btn-read{
+	color: #ed145b;
+	border: none;
+	background: #fff;
+	display: block;
+	margin: 0px auto;
+	margin-top: 50px;
+
+
+}
+
+.fa.fa-chevron-down{
+	color: #ed145b;
+	display: block;
+	margin: 0px auto;
+	padding-bottom: 50px;
+}
+
+
+
+.template{
+	background: url(../img/carosel.png)no-repeat top center;
+	background-size: cover;
+	padding: 100px 0px;
+}
+
+.template h2,p{
+	
+}
+
+.btn-show{
+	display: block;
+	margin: 0px auto;
+	padding: 6px 20px;
+	background: #ed145b;
+	color: #fff;
+	border: none;
+	border-radius: 100px;
+}
+
+.download{
+	padding: 50px 0px;
+	background: #f4f4f4;
+}
+
+.btn-dwn{
+	padding: 6px 20px;
+	background: #ed145b;
+	color: #fff;
+	border: none;
+	border-radius: 100px;
+}
+
+.bg-light{
+	background: #2b2b2b!important;
+	
+}
+
+footer p{
+	text-align: center;
+	color: #fff;
+}
+
+
